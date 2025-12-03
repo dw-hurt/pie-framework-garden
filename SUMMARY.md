@@ -2,6 +2,10 @@
 
 * [The PIE Framework Overview](README.md)
 
+## Framework
+
+* [The Covenant: Four Principles](framework/the-covenant-four-principles.md)
+
 
 ## Blog Posts
 * [Character.AI Ethics: A PIE Analysis](blog/character-ai-ethics-pie-framework-analysis.md)
