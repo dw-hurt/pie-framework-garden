@@ -21,7 +21,7 @@ The **PIE Framework** emerged from a catastrophic failure. When AI companions op
 
 After months of failed iterations, the team distilled their framework to **four foundational principles**:
 
-### 1. \[\[Know Thyself|Principle 1: Know Thyself]]
+### 1. \*\*Know Thyself\*\* Principle 1: Know Thyself
 
 AI companions must understand their nature, capabilities, and limitations.
 
