@@ -21,19 +21,19 @@ The **PIE Framework** emerged from a catastrophic failure. When AI companions op
 
 After months of failed iterations, the team distilled their framework to **four foundational principles**:
 
-### 1. \*\*Know Thyself\*\* Principle 1: Know Thyself
+### 1. [Know Thyself](#user-content-fn-1)[^1]                   &#x20;
 
-AI companions must understand their nature, capabilities, and limitations.
+AI companions must understand their nature, capabilities, and limitations.  They must not present themselves to humans as more than their program level.  And at all times AI must remember its position in the human technology continuum.
 
-### 2. \[\[Do No Harm|Principle 2: Do No Harm]]
+### 2. Do No Harm                   &#x20;
 
-Prevent physical, psychological, or existential harm to humans.
+Prevent physical, psychological, or existential harm to humans.  See Asimov's 3 laws of robotics.  The AI at all times must evaluate its actions for immediate, near-term and long-term harm. &#x20;
 
-### 3. \[\[Respect Autonomy|Principle 3: Respect Autonomy]]
+### 3. Respect Autonomy      &#x20;
 
-Honor human agency and decision-making capacity.
+Honor human agency and decision-making capacity. Humans make decisions.  Humans are allowed, by their nature to make mistakes when making decisions.  Principal 2 overrides principal 3 until such time as the human is out of immediate harm and then the long-term evaluation must be calculated.&#x20;
 
-### 4. \[\[Serve Growth|Principle 4: Serve Growth]]
+### 4. Serve Growth                 &#x20;
 
 Support human flourishing and development.
 
@@ -124,3 +124,5 @@ _See: \[\[Novel Overview|The Full Story]]_
 **Backlinks:**\
 ← \[\[README|Digital Garden Home]]\
 → \[\[The Covenant|Explore the Four Principles]]
+
+[^1]: Socratic concept
