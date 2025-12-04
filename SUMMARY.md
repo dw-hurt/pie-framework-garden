@@ -3,6 +3,7 @@
 * [The PIE Framework Overview](README.md)
 
 ## Framework
+* [Theoretical Foundations: A Thought Experiment](framework/theoretical-foundations-thought-experiment.md)
 
 * [The Covenant: Four Principles](framework/the-covenant-four-principles.md)
 
