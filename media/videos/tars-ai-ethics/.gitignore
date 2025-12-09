@@ -1,0 +1,54 @@
+# TARS Video Project - Git Ignore Rules
+
+# Large video files (don't commit to Git - use YouTube/cloud storage)
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+
+# Temporary audio files
+temp_audio/
+*.mp3
+*.wav
+*.m4a
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credentials (NEVER commit these!)
+client_secrets.json
+youtube_credentials.json
+*.json
+!package.json
+.env
+.env.local
+
+# Temporary files
+*.log
+*.tmp
+temp-audio.m4a
