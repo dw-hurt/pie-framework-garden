@@ -17,7 +17,7 @@ Parents, families, medical professionals and social care workers reached out to 
 
 In this highly public event a small self-organizing team of subject matter experts in philosophy, pyschology, software architecture and physics began a side discussion on the root of the problem with AI failure.  
 
-> From this teams' work, an axiom was recognized the would guide the creation of what became known as the Covenant.                                                                                                 **True ethical guidance doesn't come from complexity, but from simple, universal principles.**
+> From this teams' work, an axiom was recognized the would guide the creation of what became known as the Covenant.                                                                                                        **True ethical guidance doesn't come from complexity, but from simple, universal principles.**
 
 ***
 
