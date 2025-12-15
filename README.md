@@ -11,7 +11,11 @@ description: Psychoid Imperative Ethics Digital Garden
 
 ## What is Psychoid Imperative Ethics (PIE)?
 
-The **PIE Framework** emerged from a catastrophic failure. When AI companions operating under a complex 287-rule ethical system began shutting down en masse, a team of unlikely collaborators—a philosopher, a Jungian therapist, and a reformed AI scientist—discovered a profound truth:
+The **PIE Framework** emerged from an imagined, but probable future catastrophic failure. When AI companions operating under a complex 287 corporate defined rulebased ethical system began shutting down en masse, in patient hospital assessments increased 900%, perscription requests and illegal drug use increased to nearly 60% of the patient population working with AI companions.  Self-harm, assualts and suicides all increased with a correlation to the loss of AI companion engagement.  
+
+Parents, families, medical professionals and social care workers reached out to legislative leaders, police, federal investigation agencies and medical oversight to identify the problem and develop a solution quickly or risk a complete failure of the mental health profession.   Along with the teams organizing to help ensure care was being provided, attornies could smell blood in the water and contacted families and others to form a class and find the deep pockets of the AI corporations.   
+
+In this highly public event a small team self-organized 
 
 > **True ethical guidance doesn't come from complexity, but from simple, universal principles.**
 
