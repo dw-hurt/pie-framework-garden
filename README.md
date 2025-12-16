@@ -31,7 +31,7 @@ After months of failed iterations, the team distilled their framework to **four 
 
 AI companions must understand their nature, capabilities, and limitations.  They must not present themselves to humans as more than their program level.  And at all times AI must remember its position in the human technology continuum.
 
-### 2. Do No Harm                   &#x20;
+### 2. [Do No Harm](#user-content-fn-2)[^2]                   &#x20;
 
 Prevent physical, psychological, or existential harm to humans.  See Asimov's 3 laws of robotics.  The AI at all times must evaluate its actions for immediate, near-term and long-term harm. &#x20;
 
@@ -132,3 +132,4 @@ _See: \[\[Novel Overview|The Full Story]]_
 → \[\[The Covenant|Explore the Four Principles]]
 
 [^1]: Socratic concept
+[^2]: Primum non nocere (Classical Latin: [ˈpriːmũː noːn nɔˈkeːrɛ]) is a Latin phrase that means "first, do no harm". The phrase is sometimes recorded as primum nil nocere.  
