@@ -24,6 +24,7 @@ The capacity for self-governance and self-determination. In PIE Framework: the r
 
 ### **Bias (Algorithmic)**
 Systematic error in AI systems that produces unfair outcomes for certain groups. Can result from biased training data, flawed algorithms, or problematic deployment. See: [Do No Harm](../foundation/four-principles.md#2-do-no-harm)
+  Non-maleficence, which is derived from the maxim, is one of the principal precepts of bioethics that all students in healthcare are taught in school and is a fundamental principle throughout the world. Another      way to state it is that, "given an existing problem, it may be better not to do something, or even to do nothing, than to risk causing more harm than good." It reminds healthcare personnel to consider the           possible harm that any intervention might do. It is invoked when debating the use of an intervention that carries an obvious risk of harm but a less certain chance of benefi
 
 ### **Bostrom, Nick**
 Philosopher at Oxford's Future of Humanity Institute. Author of *Superintelligence*. His work focuses on existential risk from misaligned superintelligence. See: [Comparative Analysis](../intellectual-foundations/comparative-analysis.md#part-i-nick-bostrom-and-the-alignment-problem)
